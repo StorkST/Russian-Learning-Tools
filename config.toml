@@ -1,0 +1,132 @@
+baseURL = "https://storkst.github.io/Language-Learning-Tools/"
+languageCode = "en-us"
+title = "Language learning tools"
+theme = "slick"
+
+# Will appear below the footer links with a © sign and the current year
+copyright = "Some Author — All rights reserved."
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true               # Allow html (needed for some shortcodes)
+    [markup.highlight]
+        codeFences = true               # Enable highlighting inside codefences
+        guessSyntax = true              # Highlight code without language tag
+        noClasses = false               # Use the theme's style sheet
+
+
+canonifyURLs = true
+
+# Configure pagination
+paginate = 10
+paginatePath = "page"
+
+[params]
+    # Site subtitle (not shown if commented out or set to false)
+    subtitle = "Awesome tools for learning languages"
+
+    # Site description
+    #description = "Example site for Slick Hugo theme"
+
+    # Define formatting of dates
+    # (optional, falls back to RFC822 format if not set)
+    # For reference to date and time formatting, see:
+    # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
+    # Make sure to set showMetaDates to true to see any dates
+    dateFmt = "Mon, 02 Jan 2006 15:04:05 MST"
+
+    # Customize the text of the 404 page here
+    errorPageText = "Sorry, this page does not exist, did the URL change?"
+
+
+    # Header with title/subtitle can be disabled here.
+    # (If you disable this, add some link on the index page inside menu.main,
+    #  otherwise your visitors will get confused and lost...)
+    showNavHeader = true
+
+    # Decide if only summaries are shown on the main page or the full content
+    showFullContent = false
+
+    # If false no pagination is shown when there is nothing to paginate
+    showEmptyPagination = true
+
+    # If false the dates for the posts are not shown
+    showMetaDates = true
+
+    # If false the taxonomy links for the posts are not shown
+    showMetaLinks = true
+
+    # Uses Hugo internal templates if set
+    opengraph = false
+    schema = false
+    twitter_cards = false
+
+[author]
+    name = "Vincent Charrade"
+    email = "vchd+llt@pm.me"
+
+[services.rss]
+    # limit the length of the rss feed (default: unlimited)
+    limit = 0
+
+# Define all supported taxonomies (add series to the default)
+[taxonomies]
+    #tags = "tags"
+    categories = "languages"
+    series = "categories"
+
+[menu]
+    # Configure main menu entries (header)
+    # Currently set to list all taxonomies and posts
+    [[menu.main]]
+        identifier = "post"
+        name = "Posts"
+        title = "All posts"
+        url = "/posts/"
+        weight = 1
+
+    [[menu.main]]
+        identifier = "languages"
+        name = "Languages"
+        title = "All languages"
+        url = "/languages/"
+        weight = 2
+
+    [[menu.main]]
+        identifier = "categories"
+        name = "Categories"
+        title = "All categories"
+        url = "/categories/"
+        weight = 3
+
+#    [[menu.main]]
+#        identifier = "tags"
+#        name = "Tags"
+#        title = "All tags"
+#        url = "/tags/"
+#        weight = 4
+
+    # Define the entries for post metadata
+    # Identifiers should match with the taxonomy entries
+    [[menu.meta]]
+        identifier = "languages"
+        name = "Languages"
+        weight = 1
+
+    [[menu.meta]]
+        identifier = "categories"
+        name = "Categories"
+        weight = 2
+
+#   [[menu.meta]]
+#       identifier = "tags"
+#       name = "Tags"
+#       weight = 3
+
+    # Add some footer links to your likings
+    [[menu.footer]]
+        name = "GitHub"
+        title = "GitHub"
+        url = "https://github.com/StorkST/"
+        weight = 1
