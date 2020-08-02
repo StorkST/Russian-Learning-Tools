@@ -1,0 +1,9 @@
+{{ $releaseUrl :=  .Get 1 }}
+{{ 
+<ul>
+  {{ $dataJ := getJSON "https://api.github.com/repos/StorkST/multilingual-periodic-table/releases/tags/1.0.1" }}
+    {{ $assets := $dataJ.assets }}
+      {{ range $assets }}
+        <li><a href="{{ .browser_download_url }}">{{ .label }}</a></li>
+      {{ end }}
+</ul>

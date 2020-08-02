@@ -15,10 +15,4 @@ languages:
 
 Salut
 
-<ul>
-  {{ $dataJ := getJSON "https://api.github.com/repos/StorkST/multilingual-periodic-table/releases/tags/1.0.1" }}
-    {{ $assets := .assets }}
-      {{ range first 2 $assets }}
-        <li>{{ .label }}</li>
-      {{ end }}
-</ul>
+{{< githubAssets >}}
