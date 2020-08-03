@@ -15,7 +15,6 @@ copyright = "Some Author — email: vchd+llt@pm.me  — All rights reserved."
         guessSyntax = true              # Highlight code without language tag
         noClasses = false               # Use the theme's style sheet
 
-
 canonifyURLs = true
 
 # Configure pagination
