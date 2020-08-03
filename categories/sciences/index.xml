@@ -1,0 +1,12 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>sciences on Language learning tools</title><link>https://storkst.github.io/Language-Learning-Tools/categories/sciences/</link><description>Recent content in sciences on Language learning tools</description><generator>Hugo 0.74.2 -- gohugo.io</generator><language>en-us</language><managingEditor>vchd+llt@pm.me (Vincent Charrade)</managingEditor><webMaster>vchd+llt@pm.me (Vincent Charrade)</webMaster><copyright>Some Author — email: vchd+llt@pm.me — All rights reserved.</copyright><lastBuildDate>Fri, 31 Jul 2020 11:29:25 +0200</lastBuildDate><atom:link href="https://storkst.github.io/Language-Learning-Tools/categories/sciences/index.xml" rel="self" type="application/rss+xml"/><item><title>A periodic table of elements in multiple languages</title><link>https://storkst.github.io/Language-Learning-Tools/posts/multilingual-periodic-table/</link><pubDate>Fri, 31 Jul 2020 11:29:25 +0200</pubDate><author>vchd+llt@pm.me (Vincent Charrade)</author><guid isPermaLink="true">https://storkst.github.io/Language-Learning-Tools/posts/multilingual-periodic-table/</guid><description>&lt;p>Hello,&lt;/p>
+&lt;p>Do you remember that big colorful table of elements hanging on the wall of the chemistry lab?&lt;/p>
+&lt;p>This table of elements (Mendeleev&amp;rsquo;s table) comes here in multiple languages.&lt;/p>
+&lt;p>Beside showing elements of which we should be more aware to have a conversation about topics such as energy management/global warming/environnement, it is a simple tool to get some vocabulary in.
+Especially useful if you study or work in a scientific field in a multicultural context.&lt;/p>
+&lt;p>Adding new languages is pretty easy, let me know if you want to initiate support for a new language.&lt;/p>
+&lt;p>Files:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/StorkST/multilingual-periodic-table/releases/download/1.0.1/en-periodic-table-v1.0.1.zip">English periodic tables&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/StorkST/multilingual-periodic-table/releases/download/1.0.1/fr-periodic-table-v1.0.1.zip">French periodic tables&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/StorkST/multilingual-periodic-table/releases/download/1.0.1/ru-periodic-table-v1.0.1.zip">Russian periodic tables&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
