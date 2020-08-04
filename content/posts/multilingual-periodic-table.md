@@ -32,4 +32,4 @@ Adding new languages is pretty easy, let me know if you want to initiate support
 
 Files:
 
-{{< githubAssets "StorkST/multilingual-periodic-table" "1.0.1" >}}
+{{< lastReleaseAssets "StorkST/multilingual-periodic-table" >}}

@@ -1,0 +1,9 @@
+{{ $projectPath :=  .Get 0 }}
+<ul>
+  {{ $githubUrl := (printf "%s%s%s" "https://api.github.com/repos/" $projectPath "/releases/latest") }}
+  {{ $dataJ := getJSON $githubUrl }}
+    {{ $assets := $dataJ.assets }}
+      {{ range $assets }}
+        <li><a href="{{ .browser_download_url }}">{{ .label }}</a></li>
+      {{ end }}
+</ul>
