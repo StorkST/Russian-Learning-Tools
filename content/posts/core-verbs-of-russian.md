@@ -17,7 +17,7 @@ Hello,
 After a short introduction to vocabulary aquisition using words frequency, I will bring in a tool to work on russian verbs.
 
 #### Vocabulary acquisition
-Vocabulary learning of a foreign language vocabulary can be active (e.g. learning a list of new words) or incidental through context (e.g. through speach, reading, movies). Each approach has its limitations and obviously they should be used in a complementary way.
+Vocabulary acquisition of a foreign language vocabulary can be active (e.g. learning a list of new words) or incidental through context (e.g. through speach, reading, movies). Each approach has its limitations and obviously they should be used in a complementary way.
 
 Concerning the benefit of active learning of vocabulary, here is a quote from [2013, Corpus-based vocabulary lists for language learners for nine languages](http://corpus.leeds.ac.uk/serge/publications/2014-LREV-kelly.pdf):
 
@@ -25,15 +25,24 @@ Concerning the benefit of active learning of vocabulary, here is a quote from [2
 
 
 
-This study then focus on the usefulness of a list built from a representative corpus of the target language where the most frequent words would be extracted. The most frequent words being the most useful for the learner of a foreign language. That is to say in a more pragmatic way that for a learner knowing the full taxonomy of birds won't help him to get a taxi to the airport, but knowing the most frequent verbs of movement will be a great help.
+This study then focus on the usefulness of a list built from a representative corpus of the target language where the most frequent words would be extracted. The most frequent words being the most useful for the learner of a foreign language. That is to say in a more pragmatic way that a learner knowing the full taxonomy of birds won't help him get a taxi to the airport, but knowing the most frequent verbs of motion will be a great help.
 
 
 #### Russian verbs acquisition
 
+Now let's focus on the russian language.
 
-Russian verbs
+Mastering verbs of the russian language is not only highly relevant as verbs are cross-contexts, but also because from verbs are built nouns and adjectives.
+Once mastered, verbs opens up the horizon of new contexts (e.g. for verbs of motion ездить, лететь: moving in and between cities, taking a plane, going to Mars) and new vocabulary (e.g. поездка, проезд, приезд, полёт, летающий...) built from these verbs.
+
+In 2013 was defined a list of the top 9000 most frequent russian words.
+The list of words, with words metedata, can be found [here](http://corpus.leeds.ac.uk/serge/kelly/). The study about how the list is built can be found here: [Serge Sharoff, Elena Umanskaya, James Wilson, 2013, Frequency Dictionary of Contemporary Russian Core Vocabulary for Learner](http://corpus.leeds.ac.uk/serge/publications/2013-routledge-intro.pdf).
 
 
+From this list of words were extracted all of the verbs (around 1700) in order to built a ressource to learn russian verbs.
+
+
+## Table of the most frequent russian verbs
 
 Here is a solution
 
@@ -42,6 +51,7 @@ Webpage of the table: https://storkst.github.io/CoreRussianVerbs/
 Original .csv file (might be frequently updated): https://raw.githubusercontent.com/StorkST/CoreRussianVerbs/master/RussianVerbsClassification.csv
 
 How to use it? For building cards, for the daily verbs, for learning by level rank
+
 
 #### What is next
 
