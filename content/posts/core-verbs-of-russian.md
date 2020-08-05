@@ -39,18 +39,29 @@ In 2013 was defined a list of the top 9000 most frequent russian words.
 The list of words, with words metedata, can be found [here](http://corpus.leeds.ac.uk/serge/kelly/). The study about how the list is built can be found here: [Serge Sharoff, Elena Umanskaya, James Wilson, 2013, Frequency Dictionary of Contemporary Russian Core Vocabulary for Learner](http://corpus.leeds.ac.uk/serge/publications/2013-routledge-intro.pdf).
 
 
-From this list of words were extracted all of the verbs (around 1700) in order to built a ressource to learn russian verbs.
+From this list of words were extracted all of the verbs (around 1700) in order to build a ressource to help learners of the russian language.
 
 
-## Table of the most frequent russian verbs
+# Table of the most frequent russian verbs
 
-Here is a solution
+The table of the most frequent words comes as a [Webpage](https://storkst.github.io/CoreRussianVerbs/) where the verbs are ordered by decreasing frequency, that is to say by level of mastering of the language (from beginner A1 to advanced C2). Verbs can be filtered and columns can be shown or hidden.
 
-Webpage of the table: https://storkst.github.io/CoreRussianVerbs/
+<image&> url site
 
-Original .csv file (might be frequently updated): https://raw.githubusercontent.com/StorkST/CoreRussianVerbs/master/RussianVerbsClassification.csv
+Also at the bottom of the Webpage are daily verbs, picked from the list!
 
-How to use it? For building cards, for the daily verbs, for learning by level rank
+<image&> url site
+
+The table is also available as a .csv file that might be frequently updated. It can be found [here](https://raw.githubusercontent.com/StorkST/CoreRussianVerbs/master/RussianVerbsClassification.csv)
+
+A more detailed presentation of the tool can be found on [GitHub](https://github.com/StorkST/CoreRussianVerbs)
+
+
+#### How to use it?
+
+That table (Webpage and .csv file) has many usage cases:
+- 
+For building cards, for the daily verbs, for learning by level rank
 
 
 #### What is next
