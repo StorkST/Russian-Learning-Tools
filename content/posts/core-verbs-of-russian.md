@@ -4,9 +4,10 @@ slug: core-verbs-of-the-russian-language
 description: A table of conjugation of the most frequent russian verbs
 date: 2020-08-04T10:06:25+02:00
 type: posts
-draft: true
+draft: false
 categories:
 - conjugation
+- vocabulary
 languages:
 - RU/FR
 - RU/EN
@@ -16,7 +17,7 @@ Hello,
 
 After a short introduction to vocabulary aquisition using words frequency, I will bring in a tool to work on russian verbs.
 
-#### Vocabulary acquisition
+# Vocabulary acquisition
 Vocabulary acquisition of a foreign language vocabulary can be active (e.g. learning a list of new words) or incidental through context (e.g. through speach, reading, movies). Each approach has its limitations and obviously they should be used in a complementary way.
 
 Concerning the benefit of active learning of vocabulary, here is a quote from [2013, Corpus-based vocabulary lists for language learners for nine languages](http://corpus.leeds.ac.uk/serge/publications/2014-LREV-kelly.pdf):
@@ -25,18 +26,18 @@ Concerning the benefit of active learning of vocabulary, here is a quote from [2
 
 
 
-This study then focus on the usefulness of a list built from a representative corpus of the target language where the most frequent words would be extracted. The most frequent words being the most useful for the learner of a foreign language. That is to say in a more pragmatic way that a learner knowing the full taxonomy of birds won't help him get a taxi to the airport, but knowing the most frequent verbs of motion will be a great help.
+This study then focus on the usefulness of a list built from a representative corpus of a target language where the most frequent words would be extracted. The most frequent words being the most useful for the learner of a foreign language. That is to say in a more pragmatic way that a learner knowing the full taxonomy of birds won't help him get a taxi to the airport, but knowing the most frequent verbs of motion will be a great help.
 
 
-#### Russian verbs acquisition
+### Russian verbs acquisition
 
 Now let's focus on the russian language.
 
-Mastering verbs of the russian language is not only highly relevant as verbs are cross-contexts, but also because from verbs are built nouns and adjectives.
+Mastering verbs of the russian language is not only highly beneficial as verbs are cross-contexts, but also because from verbs are built nouns and adjectives.
 Once mastered, verbs opens up the horizon of new contexts (e.g. for verbs of motion ездить, лететь: moving in and between cities, taking a plane, going to Mars) and new vocabulary (e.g. поездка, проезд, приезд, полёт, летающий...) built from these verbs.
 
 In 2013 was defined a list of the top 9000 most frequent russian words.
-The list of words, with words metedata, can be found [here](http://corpus.leeds.ac.uk/serge/kelly/). The study about how the list is built can be found here: [Serge Sharoff, Elena Umanskaya, James Wilson, 2013, Frequency Dictionary of Contemporary Russian Core Vocabulary for Learner](http://corpus.leeds.ac.uk/serge/publications/2013-routledge-intro.pdf).
+That list of words, with words metadata, can be found [here](http://corpus.leeds.ac.uk/serge/kelly/). The study about how the list is built can be found here: [Serge Sharoff, Elena Umanskaya, James Wilson, 2013, Frequency Dictionary of Contemporary Russian Core Vocabulary for Learner](http://corpus.leeds.ac.uk/serge/publications/2013-routledge-intro.pdf).
 
 
 From this list of words were extracted all of the verbs (around 1700) in order to build a ressource, that comes as a table, to help learners of the russian language.
@@ -50,7 +51,7 @@ The table of the most frequent verbs comes as a [Webpage](https://storkst.github
 
 Also at the bottom of the Webpage are daily verbs, picked from the list.
 
-{{< figure src="../../core-russian-verbs/corerussianverbs2.png" alt="Daily core russian verbs" >}}
+{{< figure src="../../core-russian-verbs/corerussianverbs2.png" link="https://storkst.github.io/CoreRussianVerbs/" alt="Daily core russian verbs" >}}
 
 
 
@@ -59,9 +60,9 @@ The table is also available as a .csv file that might be frequently updated. It 
 A more detailed presentation of the tool can be found on [GitHub](https://github.com/StorkST/CoreRussianVerbs).
 
 
-#### Why and how use it?
+### Why and how use it?
 
-Table's use cases (Webpage and .csv file):
+Table's use cases:
 - building cheat-sheets / memos
 - preparing exercices about verbs conjugation
 - constant learning of the daily verbs
@@ -76,21 +77,24 @@ Also search and filter by criteria is allowed on the table:
 
 If you find any bug please open an issue at https://github.com/StorkST/Language-Learning-Tools/issues
 
-#### What is next, contributions
+# What is next? Need help?
 
 The next goal is to build 3 printables sheets to learn these core russian verbs.
-- One for beginners (A1, A2, B1)
-- One for intermediate (B2)
-- One for advanced (C1, C2)
+- One for beginners (A1, A2, B1) - 416 pairs of verbs
+- One for intermediate (B2) - 673 pairs of verbs
+- One for advanced (C1, C2) - 616 pairs of verbs
 
-Sheets will show the aspect pair of the core verbs and their translation.
+Sheets will show the aspect pairs of the core verbs and their translation.
 
-Generation of these sheets from the table of verbs is already covered and the code should go public soon. [Here is an example]() of the sheet for the intermediate level, RU/EN.
-Translations, which were fetched automatically when build the original table, are most of the time erronous. Efforts are substancial to cover the 3 sheets and your help would be very welcome.
 
-If you are interested to contribute, send a mail to vchd+llt@pm.me with what you would like to achieve:
-- what to improve, e.g. translations, aspects pairs of verbs
-- which sheet, e.g. beginners
-- the target language, e.g RU/EN, RU/FR
+Generation of these sheets from the table of verbs is already covered and the code should go public soon. Examples of sheets for the [intermediate level RU/EN](../../core-russian-verbs/RU-EN-intermediate-freq_order-colored.pdf), and [intermediate level RU/FR](../../core-russian-verbs/RU-FR-intermediate-freq_order-colored.pdf) give you an idea of this, though translations will have their characters reduced so that content is limited to one sheet.
 
-Contributors' names will get credited for their efforts on the sheets and on GitHub.
+Translations, which were fetched automatically from original table, are most of the time erronous.
+
+**Efforts are substancial to cover translations of these sheets and your help would be very welcome.
+If you would like to contribute, send a mail to vchd+llt@pm.me with what you want to achieve:**
+- **what to improve, e.g. translations, aspects pairs of verbs**
+- **which sheet, e.g. beginners**
+- **the target language, e.g RU/EN, RU/FR**
+
+**Obviously contributors will get credited on the sheets and on Github for their efforts.**
