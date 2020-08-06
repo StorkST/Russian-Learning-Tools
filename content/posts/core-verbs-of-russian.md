@@ -85,11 +85,12 @@ The next goal is to build 3 printables sheets to learn these core russian verbs.
 
 Sheets will show the aspect pair of the core verbs and their translation.
 
-The generation of these sheets is already covered and the code should go public soon. [Here is an example]() of the sheet for the intermediate level, RU/EN.
-Translations, which were fetched automatically when build the original table, are most of the time
+Generation of these sheets from the table of verbs is already covered and the code should go public soon. [Here is an example]() of the sheet for the intermediate level, RU/EN.
+Translations, which were fetched automatically when build the original table, are most of the time erronous. Efforts are substancial to cover the 3 sheets and your help would be very welcome.
 
-To contribute, send a mail to vchd+llt@pm.me with what you would like to achieve:
+If you are interested to contribute, send a mail to vchd+llt@pm.me with what you would like to achieve:
 - what to improve, e.g. translations, aspects pairs of verbs
 - which sheet, e.g. beginners
 - the target language, e.g RU/EN, RU/FR
 
+Contributors' names will get credited for their efforts on the sheets and on GitHub.
