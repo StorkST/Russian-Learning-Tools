@@ -79,7 +79,7 @@ If you find any bug please open an issue at https://github.com/StorkST/Language-
 
 # What is next? Need help?
 
-The next goal is to build 3 printables sheets to learn these core russian verbs.
+The next goal is to build 3 printable sheets to learn these core russian verbs.
 - One for beginners (A1, A2, B1) - 416 pairs of verbs
 - One for intermediate (B2) - 673 pairs of verbs
 - One for advanced (C1, C2) - 616 pairs of verbs
