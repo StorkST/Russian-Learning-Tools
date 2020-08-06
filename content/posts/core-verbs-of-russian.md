@@ -39,37 +39,57 @@ In 2013 was defined a list of the top 9000 most frequent russian words.
 The list of words, with words metedata, can be found [here](http://corpus.leeds.ac.uk/serge/kelly/). The study about how the list is built can be found here: [Serge Sharoff, Elena Umanskaya, James Wilson, 2013, Frequency Dictionary of Contemporary Russian Core Vocabulary for Learner](http://corpus.leeds.ac.uk/serge/publications/2013-routledge-intro.pdf).
 
 
-From this list of words were extracted all of the verbs (around 1700) in order to build a ressource to help learners of the russian language.
+From this list of words were extracted all of the verbs (around 1700) in order to build a ressource, that comes as a table, to help learners of the russian language.
 
 
 # Table of the most frequent russian verbs
 
-The table of the most frequent words comes as a [Webpage](https://storkst.github.io/CoreRussianVerbs/) where the verbs are ordered by decreasing frequency, that is to say by level of mastering of the language (from beginner A1 to advanced C2). Verbs can be filtered and columns can be shown or hidden.
+The table of the most frequent verbs comes as a [Webpage](https://storkst.github.io/CoreRussianVerbs/) where the verbs are ordered by decreasing frequency, that is to say by level of mastering of the language (from beginner A1 to advanced C2). Verbs can be filtered and columns can be shown or hidden.
 
-<image&> url site
+{{< figure src="../../core-russian-verbs/corerussianverbs1.png" link="https://storkst.github.io/CoreRussianVerbs/" alt="A table of core russian verbs" >}}
 
-Also at the bottom of the Webpage are daily verbs, picked from the list!
+Also at the bottom of the Webpage are daily verbs, picked from the list.
 
-<image&> url site
-
-The table is also available as a .csv file that might be frequently updated. It can be found [here](https://raw.githubusercontent.com/StorkST/CoreRussianVerbs/master/RussianVerbsClassification.csv)
-
-A more detailed presentation of the tool can be found on [GitHub](https://github.com/StorkST/CoreRussianVerbs)
+{{< figure src="../../core-russian-verbs/corerussianverbs2.png" alt="Daily core russian verbs" >}}
 
 
-#### How to use it?
 
-That table (Webpage and .csv file) has many usage cases:
-- 
-For building cards, for the daily verbs, for learning by level rank
+The table is also available as a .csv file that might be frequently updated. It can be found [here](https://raw.githubusercontent.com/StorkST/CoreRussianVerbs/master/RussianVerbsClassification.csv).
+
+A more detailed presentation of the tool can be found on [GitHub](https://github.com/StorkST/CoreRussianVerbs).
 
 
-#### What is next
+#### Why and how use it?
 
-Need help to build a sheet of verbs (vocabulary cards of verbs). Here is a link to the pdf:
+Table's use cases (Webpage and .csv file):
+- building cheat-sheets / memos
+- preparing exercices about verbs conjugation
+- constant learning of the daily verbs
 
-Send me a mail to join the efforts
+The CEFR level helps identify which verbs are to be studies depending on the learner's level.
+Also search and filter by criteria is allowed on the table:
+  - by group 1 or 2
+  - by CEFR level
+  - by reflexive form
+  - by stem, for example "работать" will return 15 verbs
+  - ...
 
-Contribute!
+If you find any bug please open an issue at https://github.com/StorkST/Language-Learning-Tools/issues
 
+#### What is next, contributions
+
+The next goal is to build 3 printables sheets to learn these core russian verbs.
+- One for beginners (A1, A2, B1)
+- One for intermediate (B2)
+- One for advanced (C1, C2)
+
+Sheets will show the aspect pair of the core verbs and their translation.
+
+The generation of these sheets is already covered and the code should go public soon. [Here is an example]() of the sheet for the intermediate level, RU/EN.
+Translations, which were fetched automatically when build the original table, are most of the time
+
+To contribute, send a mail to vchd+llt@pm.me with what you would like to achieve:
+- what to improve, e.g. translations, aspects pairs of verbs
+- which sheet, e.g. beginners
+- the target language, e.g RU/EN, RU/FR
 
