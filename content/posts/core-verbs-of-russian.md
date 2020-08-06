@@ -97,4 +97,4 @@ If you would like to contribute, send a mail to vchd+llt@pm.me with what you wan
 - **which sheet, e.g. beginners**
 - **the target language, e.g RU/EN, RU/FR**
 
-**Obviously contributors will get credited on the sheets and on Github for their efforts.**
+**Obviously contributors will get credited on the sheets and on GitHub for their efforts.**
