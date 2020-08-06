@@ -87,7 +87,7 @@ The next goal is to build 3 printable sheets to learn these core russian verbs.
 Sheets will show the aspect pairs of the core verbs and their translation.
 
 
-Generation of these sheets from the table of verbs is already covered and the code should go public soon. Examples of sheets for the [intermediate level RU/EN](../../core-russian-verbs/RU-EN-intermediate-freq_order-colored.pdf), and [intermediate level RU/FR](../../core-russian-verbs/RU-FR-intermediate-freq_order-colored.pdf) give you an idea of this, though translations will have their characters reduced so that content is limited to one sheet.
+Generation of these sheets from the table of verbs is already covered and the code should go public soon. Examples of sheets for the [intermediate level RU/EN](../../core-russian-verbs/RU-EN-intermediate-freq_order-colored.pdf), and [intermediate level RU/FR](../../core-russian-verbs/RU-FR-intermediate-freq_order-colored.pdf) give you an idea of this, though translations will have their characters reduced so that content is limited to one sheet, e.i. 2 pages.
 
 Translations, which were fetched automatically from original table, are most of the time erronous.
 
