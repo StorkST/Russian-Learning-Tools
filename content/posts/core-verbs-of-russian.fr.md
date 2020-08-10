@@ -25,7 +25,7 @@ L'acquisition de vocabulaire d'une langue étrangère peut se faire de manière 
 
 > There are a number of studies that have indicated the usefulness of lists in word-learning, such as Schmitt and Schmitt 1995; Waring 2004; and Mondria and Mondria-de Vries 1994; as well as Hulstijn 2001 and Nation 2001, who found that the use of word lists seems to exhibit good retention and faster gains. In fact, “there are a very large number of studies showing the effectiveness of such learning (i.e. using vocabulary cards) in terms of the amount and speed of learning” (Nation 1997).
 
-Cette étude traite ensuite de l'utilité d'une liste de mots construite à partir d'un corpus représentatif de la langue cible duquel sont extraits les mots les plus fréquents. Ces mots les plus fréquents sont les plus utiles pour l'étudiant en permettant de faire face aux situations les plus courantes. Plus facile de se rendre à l'aéroport en connaissant les verbes de mouvement et les objets du quotidien, plutôt que la taxonomie des diptères.
+Cette étude traite ensuite de l'utilité d'une liste de mots construite à partir d'un corpus représentatif de la langue cible duquel sont extraits les mots les plus fréquents. Ces mots les plus fréquents sont les plus utiles pour l'étudiant en permettant de faire face aux situations les plus courantes. Plus facile de se rendre à l'aéroport en connaissant les verbes de mouvement et les objets du quotidien, que la taxonomie des diptères.
 
 
 ### Acquisition des verbes russes
@@ -34,8 +34,6 @@ Concernant la langue russe, la maîtrise des verbes et non seulement intéressan
 Une fois maîtrisés, ces verbes ouvrent la voie :
 - à de nouveaux contextes. Pour les verbes de mouvement ездить, лететь: se déplacer dans et à travers les villes, prendre l'avion, aller sur Mars...
 - à du nouveau vocabulaire de même racine que les verbes. Поездка, проезд, приезд, полёт, летающий...
-
-Now let's focus on the russian language.
 
 En 2013 a été définie une liste des 9000 mots les plus fréquents dans la langue russe. Cette liste est consultable [ici](http://corpus.leeds.ac.uk/serge/kelly/). Et voici l'étude décrivant comment cette liste a été établie: [Serge Sharoff, Elena Umanskaya, James Wilson, 2013, Frequency Dictionary of Contemporary Russian Core Vocabulary for Learner](http://corpus.leeds.ac.uk/serge/publications/2013-routledge-intro.pdf).
 
@@ -64,7 +62,7 @@ Cas d'utilisation du tableau :
 - préparation d'exercices sur la conjugaison des verbes
 - apprentissage et révision continue des verbes
 
-Le niveau CEFR assigné à chaque verbe permet d'identifier les verbes étudier en fonction du niveau de l'apprenant. Aussi il est possible de chercher et filtrer selon les critères:
+Le niveau CEFR assigné à chaque verbe permet d'identifier les verbes étudiés en fonction du niveau de l'apprenant. Aussi il est possible de chercher et filtrer selon les critères:
 -  groupe 1 ou 2
 -  niveau CEFR
 -  forme réflexive
