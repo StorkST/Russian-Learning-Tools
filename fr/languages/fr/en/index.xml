@@ -1,0 +1,15 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FR/EN on Russian learning tools</title><link>https://storkst.github.io/Russian-Learning-Tools/fr/languages/fr/en/</link><description>Recent content in FR/EN on Russian learning tools</description><generator>Hugo 0.74.2 -- gohugo.io</generator><managingEditor>vchd+llt@pm.me (Vincent Charrade)</managingEditor><webMaster>vchd+llt@pm.me (Vincent Charrade)</webMaster><copyright>Some Author — email: vchd+llt@pm.me — All rights reserved.</copyright><atom:link href="https://storkst.github.io/Russian-Learning-Tools/fr/languages/fr/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Un tableau périodique des éléments imprimable et en plusieurs langues</title><link>https://storkst.github.io/Russian-Learning-Tools/fr/posts/multilingue-tableau-elements/</link><pubDate>Fri, 31 Jul 2020 11:29:25 +0200</pubDate><author>vchd+llt@pm.me (Vincent Charrade)</author><guid isPermaLink="true">https://storkst.github.io/Russian-Learning-Tools/fr/posts/multilingue-tableau-elements/</guid><description>&lt;p>Bonjour,&lt;/p>
+&lt;p>Vous vous souvenez peut-être de ce tableau coloré accroché au mur du labo de chimie.&lt;/p>
+&lt;p>Le tableau périodique des éléments (table de Mendeleïev) et ici revu en plusieurs langues.&lt;/p>
+&lt;p>Un document qui permet d&amp;rsquo;acquérir du vocabulaire scientifique. Peut être indispensable pour le chimiste travaillant dans un contexte multiculturel.&lt;/p>
+&lt;p>L&amp;rsquo;ajout de nouvelles langues se fait facilement, laissez-moi savoir si vous souhaitez faire un ajout.&lt;/p>
+&lt;figure>
+&lt;img src="../../../periodic-table/table.png"
+alt="Table of elements FR"/>
+&lt;/figure>
+&lt;p>Fichiers de la dernière version :&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/StorkST/multilingual-periodic-table/releases/download/1.0.1/en-periodic-table-v1.0.1.zip">English periodic tables&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/StorkST/multilingual-periodic-table/releases/download/1.0.1/fr-periodic-table-v1.0.1.zip">French periodic tables&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/StorkST/multilingual-periodic-table/releases/download/1.0.1/ru-periodic-table-v1.0.1.zip">Russian periodic tables&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
