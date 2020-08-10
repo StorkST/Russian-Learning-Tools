@@ -75,11 +75,11 @@ Also search and filter by criteria is allowed on the table:
   - by stem, for example "работать" will return 15 verbs
   - ...
 
-If you find any bug please open an issue at https://github.com/StorkST/Language-Learning-Tools/issues
+If you find any bug please open an issue at https://github.com/StorkST/CoreRussianVerbs/issues
 
 # What is next? Need help?
 
-The next goal is to build 3 printable sheets to learn these core russian verbs.
+The next goal is to build 3 reference guides of these core russian verbs.
 - One for beginners (A1, A2, B1) - 416 pairs of verbs
 - One for intermediate (B2) - 673 pairs of verbs
 - One for advanced (C1, C2) - 616 pairs of verbs
