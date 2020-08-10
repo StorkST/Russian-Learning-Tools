@@ -9,6 +9,7 @@ showmetalinks: false
 menu:
   main:
     name: A propos
+    url: a-propos/
     weight: 999
 categories: null
 series: null
@@ -17,7 +18,7 @@ series: null
 Le but de ce site est de donner aux apprenants des outils pour leur facilité l'apprentissage de langues.
 Le site traite pour l'instant de la langue russe, avec pour sujet principal les verbes. J'ai trouvé la maîtrise des verbes russes difficile, et j'ai pensé que des outils pragmatiques comme des pages Web et des référencels seraient utiles.
 
-Si vous êtes intéressés pour produire ou diffuser des outils ou de la documentation pour l'apprentissage des langues,  votre initiative est la bienvenue. Je reste à l'affût de vos mails.
+Si vous êtes intéressés pour produire ou diffuser des outils ou de la documentation pour l'apprentissage des langues, votre initiative est la bienvenue. Je reste à l'affût de vos mails.
 
 
 ### A propos de moi

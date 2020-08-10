@@ -97,40 +97,40 @@ paginatePath = "page"
         identifier = "post"
         name = "Posts"
         title = "All posts"
-        url = "/posts/"
+        url = "posts/"
         weight = 1
-    [[languages.fr.menu.main]]
-        identifier = "post"
-        name = "Posts"
-        url = "/posts/"
-        title = "Tous les posts"
-        weight = 1
+#    [[languages.fr.menu.main]]
+#        identifier = "post"
+#        name = "Posts"
+#        url = "/posts/"
+#        title = "Tous les posts"
+#        weight = 1
 
     [[menu.main]]
         identifier = "languages"
         name = "Languages"
         title = "All languages"
-        url = "/languages/"
+        url = "languages/"
         weight = 2
-    [[languages.fr.menu.main]]
-        identifier = "langues"
-        name = "Langues"
-        title = "Toutes les langues"
-        url = "/langues/"
-        weight = 2
+#    [[languages.fr.menu.main]]
+#        identifier = "languages"
+#        name = "Langues"
+#        title = "Toutes les langues"
+#        url = "langues/"
+#        weight = 2
 
     [[menu.main]]
         identifier = "categories"
         name = "Categories"
         title = "All categories"
-        url = "/categories/"
+        url = "categories/"
         weight = 3
-    [[languages.fr.menu.main]]
-        identifier = "catégories"
-        name = "Catégories"
-        url = "/catégories/"
-        title = "Toutes les catégories"
-        weight = 3
+#    [[languages.fr.menu.main]]
+#        identifier = "categories"
+#        name = "Catégories"
+#        url = "/catégories/"
+#        title = "Toutes les catégories"
+#        weight = 3
 
 #    [[menu.main]]
 #        identifier = "tags"
@@ -145,19 +145,19 @@ paginatePath = "page"
         identifier = "languages"
         name = "languages"
         weight = 1
-    [[languages.fr.menu.meta]]
-        identifier = "languages"
-        name = "langues"
-        weight = 1
+#    [[languages.fr.menu.meta]]
+#        identifier = "languages"
+#        name = "Langues"
+#        weight = 1
 
     [[menu.meta]]
         identifier = "categories"
         name = "categories"
         weight = 2
-    [[languages.fr.menu.meta]]
-        identifier = "categories"
-        name = "catégories"
-        weight = 2
+#    [[languages.fr.menu.meta]]
+#        identifier = "categories"
+#        name = "catégories"
+#        weight = 2
 
 #   [[menu.meta]]
 #       identifier = "tags"

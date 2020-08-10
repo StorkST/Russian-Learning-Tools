@@ -9,6 +9,7 @@ showmetalinks: false
 menu:
   main:
     name: About
+    url: about/
     weight: 999
 categories: null
 series: null
