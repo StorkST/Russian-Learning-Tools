@@ -1,10 +1,22 @@
 baseURL = "https://storkst.github.io/Russian-Learning-Tools/"
-languageCode = "en-us"
 title = "Russian learning tools"
 theme = "slick"
 
 # Will appear below the footer links with a © sign and the current year
 copyright = "Some Author — email: vchd+llt@pm.me  — All rights reserved."
+
+DefaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    weight = 1
+    languageName = "EN"
+  [languages.fr]
+    weight = 2
+    languageName = "FR"
+    [languages.fr.params]
+      [languages.fr.params.navigation]
+        help = "Aide"
 
 [markup]
     [markup.goldmark]
@@ -22,6 +34,8 @@ paginate = 10
 paginatePath = "page"
 
 [params]
+    [params.navigation]
+      help = "Help"
     # Site subtitle (not shown if commented out or set to false)
     subtitle = "Awesome tools for learning languages"
 
