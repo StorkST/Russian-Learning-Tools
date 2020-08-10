@@ -1,5 +1,5 @@
 ---
-title: "A periodic table of elements in multiple languages"
+title: "A printable periodic table of elements in multiple languages"
 slug: multilingual-periodic-table
 description: A pretty and printable periodic table in Tex/LaTex in various languages
 date: 2020-07-31T11:29:25+02:00
@@ -29,7 +29,9 @@ Especially useful if you study or work in a scientific field in a multicultural 
 Adding new languages is pretty easy, let me know if you want to initiate support for a new language.
 
 
+{{< figure src="../../periodic-table/table.png" alt="Table of elements EN" >}}
 
-Files:
+
+Files of the most up-to-date version:
 
 {{< lastReleaseAssets "StorkST/multilingual-periodic-table" >}}
