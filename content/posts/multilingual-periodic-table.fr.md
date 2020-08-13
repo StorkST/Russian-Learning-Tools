@@ -1,5 +1,5 @@
 ---
-title: "Un tableau périodique des éléments imprimable et en plusieurs langues"
+title: "Tableau périodique des éléments, imprimable et en plusieurs langues"
 slug: multilingue-tableau-elements
 description: Une version imprimable et multilingue du tableau périodique des éléments réalisée en Tex
 date: 2020-07-31T11:29:25+02:00

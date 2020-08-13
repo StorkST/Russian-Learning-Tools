@@ -80,9 +80,9 @@ If you find any bug please open an issue at https://github.com/StorkST/CoreRussi
 # What is next? Need help?
 
 The next goal is to build 3 reference guides of these core russian verbs.
-- One for beginners (A1, A2, B1) - 416 pairs of verbs
+- One for beginners (A1, A2, B1) - 616 pairs of verbs
 - One for intermediate (B2) - 673 pairs of verbs
-- One for advanced (C1, C2) - 616 pairs of verbs
+- One for advanced (C1, C2) - 416 pairs of verbs
 
 Sheets will show the aspect pairs of the core verbs and their translation.
 

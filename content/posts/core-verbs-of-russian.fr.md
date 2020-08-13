@@ -73,9 +73,9 @@ Si vous trouvez des bugs, et il y en a, merci d'ouvrir un ticket à https://gith
 # Et après ?
 
 L'étape suivante est de construire 3 référentiels sur les verbes russes, des fiches mémo d'une page recto verso.
-- Une de niveau débutant (A1, A2, B1) - 416 paires de verbes
+- Une de niveau débutant (A1, A2, B1) - 616 paires de verbes
 - Une de niveau intermédiaire (B2) -  673 paires de verbes
-- Une de niveau avancé (C1, C2) -  616 paires de verbes
+- Une de niveau avancé (C1, C2) -  416 paires de verbes
 
 Les référentiels contiendront les paires perfectif / imperfectif et leur traduction.
 
