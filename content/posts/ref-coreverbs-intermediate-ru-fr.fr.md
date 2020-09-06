@@ -31,7 +31,7 @@ La version classée par ordre alphabétique permettra quant à elle de retrouver
 {{< figure src="../../../core-russian-verbs/PDF-small-preview.png" link="https://github.com/StorkST/RussianVerbsReferenceGuide/releases/latest" alt="Référentiel des verbes russes" caption="extrait du référentiel (ordre alphabétique)" >}}
 
 
-Le lien donné au début de l'article explique comment ce référentiel a été construite.
-N'hésitez pas à me remonter les erreurs ou approximations qui pourraient être rencontrées. La fiche a été relue plusieurs fois mais il peut subsister des coquilles.
+Le lien donné au début de l'article explique comment ce référentiel a été construit.
+N'hésitez pas à me remonter les erreurs ou approximations que vous pourriez relever. La fiche a été relue plusieurs fois mais il peut subsister des coquilles.
 
 Pour une liste des verbes russes de niveau débutant ou avancé vous pouvez me contacter à vchd+llt@pm.me pour avoir une version ayant pour le moment des traductions très approximatives. Si vous le souhaitez vous pouvez également participer aux corrections et amélioration des traductions, il faut alors me le signaler dans votre message.
