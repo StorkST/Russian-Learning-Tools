@@ -7,6 +7,24 @@ copyright = "Some Author — email: vchd+llt@pm.me  — All rights reserved."
 
 DefaultContentLanguage = "en"
 
+# -1 = forever = fetch once through API then keep the result locally
+[caches]
+  [caches.assets]
+    dir = ":resourceDir/_gen"
+    maxAge = -1
+  [caches.getcsv]
+    dir = ":cacheDir/:project"
+    maxAge = 30
+  [caches.getjson]
+    dir = ":cacheDir/:project"
+    maxAge = 30
+  [caches.images]
+    dir = ":resourceDir/_gen"
+    maxAge = 30
+  [caches.modules]
+    dir = ":cacheDir/modules"
+    maxAge = -1
+
 [languages]
   [languages.en]
     weight = 1
