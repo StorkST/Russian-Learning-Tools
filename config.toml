@@ -53,8 +53,6 @@ paginate = 10
 paginatePath = "page"
 
 [params]
-    [params.navigation]
-      help = "Help"
     # Site subtitle (not shown if commented out or set to false)
     subtitle = "Awesome tools for learning languages"
 
@@ -70,7 +68,6 @@ paginatePath = "page"
 
     # Customize the text of the 404 page here
     errorPageText = "Sorry, this page does not exist, did the URL change?"
-
 
     # Header with title/subtitle can be disabled here.
     # (If you disable this, add some link on the index page inside menu.main,
@@ -93,6 +90,9 @@ paginatePath = "page"
     opengraph = false
     schema = false
     twitter_cards = false
+
+    [params.navigation]
+      help = "Help"
 
 [author]
     name = "Vincent Charrade"
